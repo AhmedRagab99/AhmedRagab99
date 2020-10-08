@@ -1,5 +1,5 @@
 ### Hey there, I'm [Ahmed Ragab](https://www.github.com/AhmedRagab99)! 👋
-<h4 align="left">A passionate ios developer💻📱from Egypt.Computer science student at Ain Shams University🏫 with passion for learning and building ios Apps and learning the new Technologies in different fields😀</h4>
+<h4 align="left">A passionate ios developer💻📱and computer science student at Ain Shams university🏫 😀</h4>
 
 - 🌱 I’m currently learning **ios,swiftUI, React,TypeScript**
 
@@ -21,10 +21,10 @@
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/firebase/firebase.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
+
+
 
 ## ⚡ Stats
 ![AhmedRagab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRagab99&hide=["issues"]&show_icons=true).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRagab99&layout=compact&theme=radical)](https://github.com/AhmedRagab99?tab=repositories)
