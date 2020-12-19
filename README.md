@@ -30,10 +30,10 @@
 
 
 ##  🎉 Skills  🎉
+- **Ios technologies**: swiftui, UIKIT, AVKit, CoreAnimation
 - **FrontEnd**: React, Angular
 - **BackEnd**:  Node.js, Express
 - **Mobile**: ios, Android
-- **Ios technologies**: swiftui, UIKIT, AVKit, CoreAnimation
 - **Databases**: MongoDB (Mongoose), MySQL
 - **Misc**: Git, Eslint, Prettier, Typescript
 - **Languages**: C++, Java, swift
