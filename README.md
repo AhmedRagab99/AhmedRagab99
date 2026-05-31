@@ -1,32 +1,37 @@
 ### Hey there, I'm [Ahmed Ragab](https://www.github.com/AhmedRagab99)! 👋
-<h4 align="left"> A passionate Software Engineer, iOS  Mobile Developer 💻📱.
-  With passion to learn all new tech trends specially in software development field
-</h4>
 
-- 🌱 I’m currently learning **ios,swiftUI, React,TypeScript**
+<div align="left">
+  <h4>Mobile, Game & Graphics Software Engineer 📱🎮</h4>
+  <p>Passionate about crafting high-performance mobile experiences, rendering technologies, and scalable cross-platform architectures.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedRagab99](https://github.com/AhmedRagab99)
+  <p>
+    <a href="https://twitter.com/aragab99ragab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/ahmedragabmossad/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://leetcode.com/Aragab99/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  </p>
+</div>
 
-- 📫 How to reach me **aragab22@gmail.com**
+---
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/aragab99ragab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aragab99ragab" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmedragabmossad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Ragab" height="30" width="40" /></a>
-<a href="https://leetcode.com/Aragab99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aragab99" height="30" width="40" /></a>
-</p>
+### 🚀 About Me
 
+- 🌱 **Currently exploring:** Advanced SwiftUI, Metal/Graphics APIs, and Game Engine Architecture.
+- 🏗️ **Engineering focus:** Building robust data and domain layers using Clean Architecture, modularization, and modern concurrency.
+- 👨‍💻 **Portfolio:** Check out my repositories below or at [github.com/AhmedRagab99](https://github.com/AhmedRagab99)
+- 📫 **Reach me at:** **aragab22@gmail.com**
 
-## ⚡ Stats
-![AhmedRagab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRagab99&hide=["issues"]&show_icons=true).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRagab99&layout=compact&theme=radical)](https://github.com/AhmedRagab99?tab=repositories)
+### 🛠️ Core Skills & Technologies
 
+- **Graphics & Game Tech:** `C++`, `CoreAnimation`, `VisionKit`, `CoreML`, `AVKit`, `Valkun`,`Metal`
+- **Mobile Development:** `iOS (Swift/SwiftUI/UIKit)`, `Android (Kotlin)`, `Kotlin Multiplatform (KMP)`
+- **Architecture & Tooling:** `Clean Architecture`, `Dependency Injection (Koin/Swinject)`, `Combine`, `Modern Concurrency`, `CI/CD`
+- **Languages:** `C++`, `Swift`, `Kotlin`, `Java`
 
-##  🎉 Skills  🎉
-- **Ios technologies**: swiftui, UIKIT, AVKit, CoreAnimation, coreml , visionkit, modern concurrency ,Combine, CI-CD
-- **FrontEnd**: React, Angular
-- **BackEnd**:  Node.js, Express
-- **Mobile**: ios, Android
-- **Databases**: MongoDB (Mongoose), MySQL
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C++, Java, swift
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedRagab99&hide=[%22issues%22]&show_icons=true&theme=transparent" alt="AhmedRagab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRagab99&layout=compact&theme=transparent" alt="Top Langs" />
+</div>
