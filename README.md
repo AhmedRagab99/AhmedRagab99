@@ -31,7 +31,4 @@
 
 ### ⚡ GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedRagab99&hide=[%22issues%22]&show_icons=true&theme=transparent" alt="AhmedRagab's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRagab99&layout=compact&theme=transparent" alt="Top Langs" />
-</div>
+![AhmedRagab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRagab99&hide=["issues"]&show_icons=true).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRagab99&layout=compact&theme=radical)](https://github.com/AhmedRagab99?tab=repositories)
