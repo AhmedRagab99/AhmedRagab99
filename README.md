@@ -28,7 +28,3 @@
 - **Languages:** `C++`, `Swift`, `Kotlin`, `Java`
 
 ---
-
-### ⚡ GitHub Stats
-
-![AhmedRagab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRagab99&hide=["issues"]&show_icons=true).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRagab99&layout=compact&theme=radical)](https://github.com/AhmedRagab99?tab=repositories)
